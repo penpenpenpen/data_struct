@@ -1,4 +1,4 @@
-#include "common.h"
+#include "com.h"
 
 struct operations ops = {
 	.p_show = show,

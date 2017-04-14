@@ -1,4 +1,4 @@
-#include "common.h"
+#include "com.h"
 
 PPER create(struct person* phead, int pa)
 {
